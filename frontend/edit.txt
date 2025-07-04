@@ -1,0 +1,10 @@
+MongoDb
+ProjId- 685a8ac5bdae94247f7b5ea7
+Username- sayyedfaizan
+pass- faizan2005
+
+mongodb+srv://sayyedfaizan:faizan2005@cluster0.eiiu3sk.mongodb.net/
+
+Email
+Name- Mail2
+code- raao xtmi lnwi wvik
